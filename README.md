@@ -26,14 +26,12 @@ mention his knowledge of the markdown-universe.
 
 # Tweets with tips and tricks
 
-To embed tweets in this document, I am using
-[`tweetrmd`](https://github.com/gadenbuie/tweetrmd) package. These are
-in no particular order. Like my brain, these are scattered all over the
-place. 😅
+These are in no particular order, and, like my brain, these are
+scattered all over the place. 😅
 
 ## Embed one chunk in another chunk
 
-<blockquote class="twitter-tweet">
+<blockquote class="twitter-tweet" data-theme="dark">
 <p lang="en" dir="ltr">
 Reusing code chunks in
 <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">\#rmarkdown</a>
