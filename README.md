@@ -7,11 +7,12 @@ document is mostly to organize my own thoughts since it became
 increasingly difficult to find the tweet I had in mind and also to
 remember which tip I had shared and which I wanted to share. And,
 although it’s for personal use, I am hoping that others might also find
-these tips and tricks useful. I will keep updating this document as I
-add new tweets.
+these tips and tricks useful.
 
 To see the tweets properly, see this webpage:
 <https://indrajeetpatil.github.io/RmarkdownTips/>
+
+I will keep updating this document as I add new tweets.
 
 # Ackowledgments
 
