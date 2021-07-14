@@ -1,5 +1,7 @@
 
-# RMarkdown Tips and Tricks <img src="images/rmarkdown.png" align="right" width="240">
+<!-- # RMarkdown Tips and Tricks <img src="images/rmarkdown.png" align="right" width="240"> -->
+
+# RMarkdown Tips and Tricks
 
 This document provides a collection of my tweets containing tips and
 tricks related to [RMarkdown](https://rmarkdown.rstudio.com/). This
@@ -17,8 +19,8 @@ I will keep updating this document as I add new tweets.
 # Ackowledgments
 
 Most of these tips are from [Yihui Xie](https://yihui.org/)’s books and
-I would highly recommend that you check out these books. Except for the
-*knitr* book, all other books are available online **for free**.
+I would highly recommend that you check them out. Except for the
+*knitr*, all other books are available online **for free**.
 
 <img src="Images/rmd_books.jpeg" width="1312" />
 
