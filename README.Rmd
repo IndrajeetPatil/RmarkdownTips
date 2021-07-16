@@ -22,12 +22,15 @@ related to [RMarkdown](https://rmarkdown.rstudio.com/). This document is mostly
 to organize my own thoughts since it became increasingly difficult to find the
 tweet I had in mind and also to remember which tip I had shared and which I
 wanted to share. And, although it's for personal use, I am hoping that others
-might also find these tips and tricks useful. 
+might also find these tips and tricks useful. I will keep updating this document
+as I add new tweets.
 
-To see the tweets properly, see this webpage:
+If you are reading this on GitHub README, see this webpage instead to see the
+tweets rendered properly:
 <https://indrajeetpatil.github.io/RmarkdownTips/>
 
-I will keep updating this document as I add new tweets.
+All the source code for this document can be found on `GitHub`:
+<https://github.com/IndrajeetPatil/RmarkdownTips>
 
 # Ackowledgments
 
@@ -38,8 +41,6 @@ all other books are available online **for free**.
 ```{r, echo=FALSE}
 knitr::include_graphics("Images/rmd_books.jpeg")
 ```
-
-<br>
 
 I would also like to thank [Christophe Dervieux](https://github.com/cderv), who
 has patiently answered my Rmarkdown-related questions, queries, and comments on

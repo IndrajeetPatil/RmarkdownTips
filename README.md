@@ -9,12 +9,15 @@ document is mostly to organize my own thoughts since it became
 increasingly difficult to find the tweet I had in mind and also to
 remember which tip I had shared and which I wanted to share. And,
 although it’s for personal use, I am hoping that others might also find
-these tips and tricks useful.
+these tips and tricks useful. I will keep updating this document as I
+add new tweets.
 
-To see the tweets properly, see this webpage:
+If you are reading this on GitHub README, see this webpage instead to
+see the tweets rendered properly:
 <https://indrajeetpatil.github.io/RmarkdownTips/>
 
-I will keep updating this document as I add new tweets.
+All the source code for this document can be found on `GitHub`:
+<https://github.com/IndrajeetPatil/RmarkdownTips>
 
 # Ackowledgments
 
@@ -23,8 +26,6 @@ I would highly recommend that you check them out. Except for the
 *knitr*, all other books are available online **for free**.
 
 <img src="Images/rmd_books.jpeg" width="1312" />
-
-<br>
 
 I would also like to thank [Christophe
 Dervieux](https://github.com/cderv), who has patiently answered my
