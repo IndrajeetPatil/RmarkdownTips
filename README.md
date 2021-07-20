@@ -384,6 +384,25 @@ see:<a href="https://t.co/8GAjY3lrN6">https://t.co/8GAjY3lrN6</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Option aliases
+
+<blockquote class="twitter-tweet" data-theme="dark">
+<p lang="en" dir="ltr">
+If you feel that you spend too much time typing (even with autocomplete)
+some oft-used {knitr} chunk options in
+<a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">\#rmarkdown</a>,
+you can use the {set\_alias} function to create shorthands!
+🙌<a href="https://t.co/94siAzrjAO">https://t.co/94siAzrjAO</a><br><br>Here
+is a demo
+📽️<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">\#rstats</a>
+<a href="https://t.co/6LPso8aeCN">pic.twitter.com/6LPso8aeCN</a>
+</p>
+— Indrajeet Patil (@patilindrajeets)
+<a href="https://twitter.com/patilindrajeets/status/1417389776634798084?ref_src=twsrc%5Etfw">July
+20, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Reducing size with `prettydoc`
 
 <blockquote class="twitter-tweet" data-theme="dark">
