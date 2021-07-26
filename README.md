@@ -344,6 +344,24 @@ etc.)<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etf
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Include appendix after bibliography
+
+<blockquote class="twitter-tweet" data-theme="dark">
+<p lang="en" dir="ltr">
+If you write a manuscript in
+<a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">\#rmarkdown</a>,
+the references are included by default at the end of the article.<br>But
+what if you also wish to include appendices? 🤔<br><br>This demo 📽️ shows
+how you can force a position for a bibliography. 💡<br><br>For more,
+see:<a href="https://t.co/4kqTvNeOSh">https://t.co/4kqTvNeOSh</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">\#rstats</a>
+<a href="https://t.co/IbDTHYcSBr">pic.twitter.com/IbDTHYcSBr</a>
+</p>
+— Indrajeet Patil (@patilindrajeets)
+<a href="https://twitter.com/patilindrajeets/status/1419686287196528642?ref_src=twsrc%5Etfw">July
+26, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Confusion between `eval`, `echo`, `include`
 
 <blockquote class="twitter-tweet" data-theme="dark">
