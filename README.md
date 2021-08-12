@@ -475,6 +475,23 @@ I was today years old when I figured out how to preserve spaces in
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Using YAML pipe operator ( \| )
+
+<blockquote class="twitter-tweet" data-theme="dark">
+<p lang="en" dir="ltr">
+If you need to use special characters while writing
+<a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">\#rmarkdown</a>
+YAML details, you can use the pipe operator ( \| ) in YAML to avoid
+having to escape any characters!
+🙌<a href="https://t.co/kRFkcRs2if">https://t.co/kRFkcRs2if</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">\#rstats</a>
+<a href="https://t.co/bTWFFgIdzg">pic.twitter.com/bTWFFgIdzg</a>
+</p>
+— Indrajeet Patil (@patilindrajeets)
+<a href="https://twitter.com/patilindrajeets/status/1425381884679409669?ref_src=twsrc%5Etfw">August
+11, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Formatting/styling code
 
 <blockquote class="twitter-tweet" data-theme="dark">
