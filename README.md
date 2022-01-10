@@ -230,6 +230,23 @@ tutorials, talks, etc.
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Using verbatim engine for teaching
+
+<blockquote class="twitter-tweet" data-theme="dark">
+<p lang="en" dir="ltr">
+The new {verbatim} engine in {knitr} 📦 is going to be an absolute
+game-changer for teaching
+<a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a>
+to newbies!
+🤩<a href="https://t.co/Sn46mZDfFo">https://t.co/Sn46mZDfFo</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>
+<a href="https://t.co/ZCLsM6iLX6">pic.twitter.com/ZCLsM6iLX6</a>
+</p>
+— Indrajeet Patil (इंद्रजीत पाटील) (@patilindrajeets)
+<a href="https://twitter.com/patilindrajeets/status/1480555978739253251?ref_src=twsrc%5Etfw">January
+10, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Custom CSS
 
 <blockquote class="twitter-tweet" data-theme="dark">
