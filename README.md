@@ -421,6 +421,25 @@ see:<a href="https://t.co/8GAjY3lrN6">https://t.co/8GAjY3lrN6</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## In-body syntax for chunk options
+
+<blockquote class="twitter-tweet" data-theme="dark">
+<p lang="en" dir="ltr">
+ICYMI, {knitr} 📦 now provides an alternate (and IMO more readable) way
+to specify code chunk options!
+📑<a href="https://t.co/Sn46mZUR3Y">https://t.co/Sn46mZUR3Y</a><br><br>Chunk
+options written in the chunk header can be pretty hard to read,
+esp. when there are too many, or some are too
+long.<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">\#rstats</a>
+<a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">\#DataScience</a>
+<a href="https://t.co/kR0SUTd7XC">pic.twitter.com/kR0SUTd7XC</a>
+</p>
+— Indrajeet Patil (इंद्रजीत पाटील) (@patilindrajeets)
+<a href="https://twitter.com/patilindrajeets/status/1535139371166359552?ref_src=twsrc%5Etfw">June
+10, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Option aliases
 
 <blockquote class="twitter-tweet" data-theme="dark">
