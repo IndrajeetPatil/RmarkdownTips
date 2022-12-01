@@ -12,10 +12,31 @@ keywords: ["r", "rmarkdown", "quarto", "literate programming"]
 
 Source code for this document can be found on [GitHub](https://github.com/IndrajeetPatil/RmarkdownTips).
 
+# Ackowledgments
+
+Most of these tips are from [Yihui Xie](https://yihui.org/)'s books and I would
+highly recommend that you check them out. Except for the one about `{knitr}`, 
+all other books are available online **for free**.
+
+```{r, echo=FALSE}
+knitr::include_graphics("Images/rmd_books.jpeg")
+```
+
+I would especially like to thank [Christophe Dervieux](https://github.com/cderv), 
+who has patiently answered my questions and queries on Twitter, GitHub, and 
+StackOverflow. His kindness and patience is boundless, not to mention his 
+knowledge of the markdown-universe.
+
 # Tweets with tips and tricks
 
-These are in no particular order, and, like my brain, these are scattered all
-over the place. 😅
+:::{.callout-important}
+
+## Be patient
+
+It might take a few seconds before the tweets are rendered on the webpage. </br>
+Apologies in advance for the delays.
+
+:::
 
 ## Embed one chunk in another chunk 
 
