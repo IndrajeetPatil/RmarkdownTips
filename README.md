@@ -7,11 +7,8 @@ successor, [Quarto](https://quarto.org/). Although originally meant for
 personal use, I am hoping that others might also find these tips and
 tricks useful.
 
-You can read the tweets on this page:
-<https://indrajeetpatil.github.io/RmarkdownTips/>
-
-All the source code for this document can be found on `GitHub`:
-<https://github.com/IndrajeetPatil/RmarkdownTips>
+If you’re reading this on GitHub README, you can read the tweets on this
+webpage: <https://indrajeetpatil.github.io/RmarkdownTips/>
 
 # Ackowledgments
 

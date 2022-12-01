@@ -10,6 +10,8 @@ keywords: ["r", "rmarkdown", "quarto", "literate programming"]
 ```{r, child="rmd-fragment.Rmd"}
 ```
 
+Source code for this document can be found on [GitHub](https://github.com/IndrajeetPatil/RmarkdownTips).
+
 # Tweets with tips and tricks
 
 These are in no particular order, and, like my brain, these are scattered all
