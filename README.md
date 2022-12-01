@@ -10,6 +10,9 @@ tricks useful.
 If you’re reading this on GitHub README, you can read the tweets on this
 webpage: <https://indrajeetpatil.github.io/RmarkdownTips/>
 
+N.B. I haven’t included any of my tweets about RMarkdown-extension
+packages.
+
 # Ackowledgments
 
 Most of these tips are from [Yihui Xie](https://yihui.org/)’s books and
