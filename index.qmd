@@ -7,10 +7,35 @@ author: "Indrajeet Patil"
 keywords: ["r", "rmarkdown", "quarto", "literate programming"]
 ---
 
+:::: {.columns}
+
+::: {.column width='80%'}
+
 ```{r, child="rmd-fragment.Rmd"}
 ```
 
-Source code for this document can be found on [GitHub](https://github.com/IndrajeetPatil/RmarkdownTips).
+:::
+
+::: {.column width='20%'}
+
+```{r, echo=FALSE, out.width="50%"}
+knitr::include_graphics("Images/files.jpeg")
+```
+
+:::
+
+::::
+
+:::{.callout-note}
+
+## N.B.
+
+- I haven't included any of my tweets about RMarkdown-extension packages.
+- Source code for this document can be found on [GitHub](https://github.com/IndrajeetPatil/RmarkdownTips).
+
+:::
+
+
 
 # Ackowledgments
 
