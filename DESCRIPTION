@@ -13,7 +13,7 @@ Description: This document provides a collection of my tweets containing tips
     these tips and tricks useful. This repository is not a package, and 
     the DESCRIPTION file is included to make it easier to install required 
     packages in GitHub action workflows.
-License: CC0 1.0 Universal
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.2
