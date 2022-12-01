@@ -25,7 +25,7 @@ Most of these tips are from [Yihui Xie](https://yihui.org/)’s books and
 I would highly recommend that you check them out. Except for the
 *knitr*, all other books are available online **for free**.
 
-![](Images/rmd_books.jpeg)<!-- -->
+<img src="Images/rmd_books.jpeg" width="1312" />
 
 I would also like to thank [Christophe
 Dervieux](https://github.com/cderv), who has patiently answered my
@@ -93,6 +93,37 @@ demo👇<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5
 — Indrajeet Patil (@patilindrajeets)
 <a href="https://twitter.com/patilindrajeets/status/1413023409399869443?ref_src=twsrc%5Etfw">July
 8, 2021</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark">
+<p lang="en" dir="ltr">
+ICYMI, instead of creating one long document, you can create *reusable*
+child RMarkdown or Quarto documents and stitch them together in single
+or multiple parent documents. 👨‍👦<br><br>What's more, you can also create
+child templates!<br><br>For more,
+see:<a href="https://t.co/QOtOxwwmbN">https://t.co/QOtOxwwmbN</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">\#rstats</a>
+<a href="https://t.co/nhrlmGXhem">pic.twitter.com/nhrlmGXhem</a>
+</p>
+— Indrajeet Patil (इंद्रजीत पाटील) (@patilindrajeets)
+<a href="https://twitter.com/patilindrajeets/status/1595013617291870212?ref_src=twsrc%5Etfw">November
+22, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Opening linked documents in a new tab
+
+<blockquote class="twitter-tweet" data-theme="dark">
+<p lang="en" dir="ltr">
+ICYMI, you can use the `target` attribute in Quarto or RMarkdown docs to
+specify where to open the linked document (e.g. should it open in the
+same or a new tab).<br><br>For available options for this attribute,
+see:<a href="https://t.co/E95CLiD3Og">https://t.co/E95CLiD3Og</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">\#rstats</a>
+<a href="https://twitter.com/hashtag/quarto_pub?src=hash&amp;ref_src=twsrc%5Etfw">\#quarto_pub</a>
+<a href="https://t.co/CT13aIWeBx">pic.twitter.com/CT13aIWeBx</a>
+</p>
+— Indrajeet Patil (इंद्रजीत पाटील) (@patilindrajeets)
+<a href="https://twitter.com/patilindrajeets/status/1593919150396768256?ref_src=twsrc%5Etfw">November
+19, 2022</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
