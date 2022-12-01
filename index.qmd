@@ -26,13 +26,11 @@ knitr::include_graphics("Images/files.jpeg")
 
 ::::
 
-:::{.callout-note}
+:::{.callout-tip}
 
 Source code for this document can be found on GitHub: <https://github.com/IndrajeetPatil/RmarkdownTips>
 
 :::
-
-
 
 # Ackowledgments
 
