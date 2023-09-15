@@ -1,4 +1,5 @@
 Package: RmarkdownTips
+Type: Document
 Title: Collection of my tweets with RMarkdown/Quarto tips and tricks
 Version: 1.0
 Authors@R: 
