@@ -3,10 +3,6 @@ on:
     branches: [main, master]
   pull_request:
     branches: [main, master]
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    # Trigger once a week, on a Sunday (0)
-    - cron: "0 0 * * 0"
 
 name: Render webpage
 
@@ -16,27 +12,34 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
-      - uses: r-lib/actions/setup-pandoc@v2
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
         with:
-          pandoc-version: "3.1.8"
+          pandoc-version: "latest"
 
-      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: pre-release
-      - run: |
-          quarto --version
 
-      - uses: r-lib/actions/setup-r@v2
+      - name: Install Quarto extensions
+        run: |
+          quarto --version
+          quarto install extension quarto-ext/fontawesome --no-prompt
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-r-dependencies@v2
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
         with:
           pak-version: devel
-          extra-packages: |
-            quarto-dev/quarto-r
+          upgrade: "TRUE"
 
       - name: Render webpage
         run: |
